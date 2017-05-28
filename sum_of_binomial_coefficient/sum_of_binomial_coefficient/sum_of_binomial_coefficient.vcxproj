@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{9DCA1983-EA58-4788-884A-CF93FB8FB8E6}</ProjectGuid>
+    <ProjectGuid>{0F177F71-C6B1-4A42-B740-CBD8EAD2FC49}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>subarray</RootNamespace>
+    <RootNamespace>sum_of_binomial_coefficient</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
